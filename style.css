@@ -263,7 +263,17 @@ footer .f-flex .nav2 ul li a:hover{
     color: white;
 }
 
+.f-flex2{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
+.f-flex2 p{
+    color: rgb(88, 88, 88);
+}
 
 
 
